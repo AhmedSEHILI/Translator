@@ -1,0 +1,42 @@
+textview {
+    color: black; /* Couleur du texte */
+    border: 2px solid #ccc; /* Bordure */
+    padding: 1px; /* Espacement intérieur */
+    font-size: 14px; /* Taille de police */
+}
+
+label {
+    background-color: white;
+    color: black; 
+    border: 2px solid #ccc; 
+    margin: 10px; 
+    font-size: 14px; 
+    padding: 4px;
+}
+
+#labCorrected, #labTranslated{
+
+    background-color: #E0FFFF;
+    padding: 10px;
+}
+
+stack {
+
+    margin: 20px;
+}
+
+window {
+
+    background-color: #F0FFFF;
+}
+
+stacksidebar{
+    margin-top: 30px;
+    min-height: 100px;
+    border: 2px solid #ccc;
+}
+
+combocoxcext{
+
+    background-color: #E0FFFF;
+}
